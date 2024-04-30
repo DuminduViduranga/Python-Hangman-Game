@@ -1,5 +1,6 @@
 # Python Hangman Game
 
+```
   _    _                                         
  | |  | |                                        
  | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
@@ -8,6 +9,7 @@
  |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
                       __/ |                      
                      |___/      
+``` 
 
 Welcome to the Python Hangman Game repository! This project contains a classic Hangman game implemented in Python. Test your vocabulary and guessing skills in this interactive command-line game.
 
